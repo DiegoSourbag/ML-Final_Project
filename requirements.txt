@@ -2,3 +2,6 @@ Pandas
 scikit-learn
 matplotlib
 xlrd
+seaborn
+numpy
+scikit-learn
