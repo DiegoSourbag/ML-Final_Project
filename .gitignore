@@ -1,6 +1,8 @@
 ML\ Group\ Project\ Datasets
 venv
-criminality_2019.csv
+.venv
+kwb-2018.xls
+Misdrijven_W_B.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
