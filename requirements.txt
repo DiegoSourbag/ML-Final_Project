@@ -5,3 +5,6 @@ xlrd
 seaborn
 numpy
 scikit-learn
+scikit-optimize
+xgboost
+shap
